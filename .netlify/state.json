@@ -1,0 +1,19 @@
+{
+	"geolocation": {
+		"data": {
+			"city": "Kongsberg",
+			"country": {
+				"code": "NO",
+				"name": "Norway"
+			},
+			"subdivision": {
+				"code": "06",
+				"name": "Buskerud"
+			},
+			"timezone": "Europe/Oslo",
+			"latitude": 59.6807,
+			"longitude": 9.6403
+		},
+		"timestamp": 1716821797135
+	}
+}
